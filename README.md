@@ -24,25 +24,6 @@ This project builds **FinChatBot**, a domain-specific AI-powered chatbot for SCU
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-scu-finance-chatbot/
-│
-├── code/
-│   └── FinChatBot_Final_Version.ipynb   # Full chatbot code (runs on Google Colab)
-│
-├── data/
-│   └── README_data.md                   # Description of knowledge base documents
-│
-├── slides/
-│   └── NLP__FinChatBot_Presentation.pdf
-│
-└── README.md
-```
-
----
-
 ## 📊 Knowledge Base (Data)
 
 The chatbot was built on **6 official documents** provided by the SCU Finance Department:
